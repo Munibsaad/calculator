@@ -18,7 +18,51 @@
 .result{
     width: 100%;
     height: 100px;
-    background-color: gray;
+    background-color:paleturquoise;
     color: hotpink;
     box-sizing: border-box;
+    font-size: 30px;
 }
+.clearbtn{
+    width: 100%;
+    height: 60px;
+    margin-top: 10px;
+}
+#child{
+    font-size: 20px;
+    background-color: chartreuse;
+}
+
+#child1{
+    font-size: 18px;
+    background-color: coral;
+}
+
+#child2{
+    font-size: 16px;
+    background-color: cornsilk;
+}
+#child3{
+    font-size: 14px;
+    background-color: cyan;
+}
+
+
+.btn11{
+    width:  50%;
+    height: 48px;
+    color: red;
+    background-color: powderblue;
+}
+.btn12{
+    width:  47%;
+    height: 50px;
+    color: rosybrown;
+    background-color: royalblue;
+}
+
+
+
+
+
+
